@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AsuntosGenero</string>
+    <string name="anio">Año</string>
+    <string name="comuna">Comuna</string>
+    <string name="age">Edad</string>
+    <string name="socialSecurity">Seguridad Social</string>
+    <string name="month">Mes</string>
+    <string name="municipality">Municipio</string>
+    <string name="relationAgressor">Relacion Agresor</string>
+    <string name="typeViolence">Tipo Violencia</string>
+    <string name="identitySexual">Identidad Sexual</string>
+</resources>
