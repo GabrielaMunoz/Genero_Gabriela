@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AsuntosGenero</string>
     <string name="anio">Year</string>
     <string name="comuna">Comune</string>
     <string name="age">Age</string>
@@ -10,4 +9,13 @@
     <string name="relationAgressor">Relation Agressor</string>
     <string name="typeViolence">Type Violence</string>
     <string name="identitySexual">" Identity Sexual"</string>
+    <string name="app_name">Gender Issues</string>
+    <string name="texto_autor">Author: Ana Gabriela Munoz Cabrera</string>
+    <string name="boton_volver">Return</string>
+    <string name="sscreen">Information on gender violence</string>
+    <string name="emp">Start</string>
+    <string name="bien">Welcome</string>
+    <string name="msg">In this application is observed some data, about the violation of gender experienced by some people</string>
+    <string name="in">To continue click the start button</string>
+    <string name="boton_acerca">About</string>
 </resources>

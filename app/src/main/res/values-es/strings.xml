@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AsuntosGenero</string>
+    <string name="app_name">Asuntos Genero</string>
     <string name="anio">Año</string>
     <string name="comuna">Comuna</string>
     <string name="age">Edad</string>
@@ -10,4 +10,12 @@
     <string name="relationAgressor">Relacion Agresor</string>
     <string name="typeViolence">Tipo Violencia</string>
     <string name="identitySexual">Identidad Sexual</string>
+    <string name="texto_autor">Autora: Ana Gabriela Muñoz Cabrera</string>
+    <string name="boton_volver">Volver</string>
+    <string name="sscreen">Informacion acerca de la violencia de genero</string>
+    <string name="emp">Empezar</string>
+    <string name="bien">Bienvenidos</string>
+    <string name="msg">En esta aplicacion se observa algunos datos, acerca de la violacion de genero experimentado por algunas personas</string>
+    <string name="in">Para continuar da clic en el boton empezar</string>
+    <string name="boton_acerca">Acerca De</string>
 </resources>
